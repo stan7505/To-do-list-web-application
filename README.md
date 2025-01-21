@@ -42,3 +42,7 @@ This HTML and CSS code creates a web page for a "Task List" application. The pag
    - It uses local storage to store and retrieve task data.
 
 In summary, this code creates a web page for managing tasks. Users can input tasks, edit them, mark them as completed or uncompleted, and delete them. The tasks are stored locally in the browser's storage, allowing for persistence across page reloads. The page is designed to be responsive, adapting its layout for different screen sizes. It also includes some basic styling to make the task list visually appealing.
+
+![Screenshot (11)](https://github.com/user-attachments/assets/feca7708-87d6-4571-802c-cbb038b2e484)
+
+
